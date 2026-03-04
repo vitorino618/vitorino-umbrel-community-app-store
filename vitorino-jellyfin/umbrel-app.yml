@@ -3,7 +3,7 @@ id: vitorino-jellyfin
 category: media
 name: Jellyfin
 icon: https://cdn.brandfetch.io/idu_b8goqH/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764380173570
-version: "10.10.7-gpu"
+version: "10.10.7"
 tagline: The Free Software Media System
 description: >-
   Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way.
@@ -51,5 +51,4 @@ torOnly: false
 permissions:
   - STORAGE_DOWNLOADS
   - GPU
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-apps/commit/60878f278d544b204d8e7c96240c797f43a9b319
+submitter: Vitorino
